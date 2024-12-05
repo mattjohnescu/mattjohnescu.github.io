@@ -57,8 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: MSBA Capstone Project
+        link: github.com/mattjohnescu/MSBA-Capstone-Project
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
