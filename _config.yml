@@ -98,10 +98,10 @@ content:
         quote: >
           Ranked #5 in the U.S. by TFE Times (2024) and designed to provide the skills necessary to compete in the rapidly growing market for analytics and data science professionals, the David Eccles School of Business Master of Science in Business Analytics (MSBA) program offers a unique blend of innovative curriculum in both the data analytics and business space.
         description: | # this will include new lines to allow paragraphs
-          During my Masters program I took the opportunity to pursue combining data science and marketing through a number of courses including data mining, big data analytics, natural language processing, all using Python, R, and SQL. I also learned how to work with teams on data related problems. 
+          During my Masters program I took the opportunity to pursue combining data science and marketing through a number of courses including **data mining, big data analytics, natural language processing**, all using **Python**, **R**, and **SQL**. I also learned how to work with teams on data related problems. 
 
 
-          - Worked with Swire Coca-Cola to complete my capstone project on Machine Learning for Preventative Maintenance for bottling and canning production lines.
+          - Worked with Swire Coca-Cola to complete my capstone project on Machine Learning for Preventative Maintenance for bottling and canning production lines. 
 
       - layout: left
         title: The University of Utah
