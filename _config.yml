@@ -79,7 +79,7 @@ content:
         title: FUEL Marketing
         link: fuelmarketing.com
         # link_text: fuelmarketing.com
-        sub_title: Marketing Specialist
+        sub_title: Marketing Analyst
         caption: May 2023 - Present
         quote: >
             Fuel Marketing is a top marketing and creative agency for branding, digital marketing, social media, TV/radio, outdoor, web, SEO, graphic design, PR, and more.
@@ -93,25 +93,25 @@ content:
     content:
       - layout: left
         title: The University of Utah
-        caption: 2019 - 2023
+        caption: 2023 - 2024
         sub_title: MS Business Analytics
         quote: >
           Ranked #5 in the U.S. by TFE Times (2024) and designed to provide the skills necessary to compete in the rapidly growing market for analytics and data science professionals, the David Eccles School of Business Master of Science in Business Analytics (MSBA) program offers a unique blend of innovative curriculum in both the data analytics and business space.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my Masters program I took the opportunity to pursue combining data science and marketing through a number of courses including data mining, big data analytics, natural. 
 
-          I spent a lot of my free time as a committee member for Phi Delta The Fraternity and held positions as the **Marketing Coordinator** and **Risk Prevention Coordinator**
+          - I spent a lot of my free time as a committee member for Phi Delta The Fraternity and held positions as the **Marketing Coordinator** and **Risk Prevention Coordinator**
 
       - layout: left
         title: The University of Utah
-        caption: 2010 - 2013
+        caption: 2019 - 2023
         sub_title: BS Marketing
         quote: >
           The marketing undergraduate curriculum includes courses in advertising, digital marketing and analytics, strategic marketing, and professional sales.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member for Phi Delta The Fraternity and held positions as the **Marketing Coordinator** and **Risk Prevention Coordinator**
+          - I spent a lot of my free time as a committee member for Phi Delta The Fraternity and held positions as the **Marketing Coordinator** and **Risk Prevention Coordinator**
 
 
   - title: A Little More About Me
