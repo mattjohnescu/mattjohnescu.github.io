@@ -92,7 +92,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Utah
+        title: The University of Utah
         caption: 2019 - 2023
         sub_title: MS Business Analytics
         quote: >
@@ -103,7 +103,7 @@ content:
           I spent a lot of my free time as a committee member for Phi Delta The Fraternity and held positions as the **Marketing Coordinator** and **Risk Prevention Coordinator**
 
       - layout: left
-        title: University of Utah
+        title: The University of Utah
         caption: 2010 - 2013
         sub_title: BS Marketing
         quote: >
