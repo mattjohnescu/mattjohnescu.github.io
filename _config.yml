@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: mattjohnescu.github.io/profile.jpg
+about_profile_image: (/mattjohnescu.github.io/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Matt and I'm a Marketing Analyst and recent MSBA graduate. I am on a quest to combine data science and marketing in my career. I graduated from the University of Utah in 2023 with a BA in Marketing, following this I immediately began a MA in Business Analytics. While completing my Masters degree I have been working in digital marketing at FUEL Marketing to help grow both of my skill sets.
 
@@ -98,9 +98,9 @@ content:
         quote: >
           Ranked #5 in the U.S. by TFE Times (2024) and designed to provide the skills necessary to compete in the rapidly growing market for analytics and data science professionals, the David Eccles School of Business Master of Science in Business Analytics (MSBA) program offers a unique blend of innovative curriculum in both the data analytics and business space.
         description: | # this will include new lines to allow paragraphs
-          During my Masters program I took the opportunity to pursue combining data science and marketing through a number of courses including data mining, big data analytics, natural. 
+          During my Masters program I took the opportunity to pursue combining data science and marketing through a number of courses including data mining, big data analytics, natural language processing, all using Python, R, and SQL. I also learned how to work with teams on data related problems. 
 
-          - I spent a lot of my free time as a committee member for Phi Delta The Fraternity and held positions as the **Marketing Coordinator** and **Risk Prevention Coordinator**
+          - Worked with Swire Coca-Cola to complete my capstone project on Machine Learning for Preventative Maintenance for bottling and canning production lines.
 
       - layout: left
         title: The University of Utah
