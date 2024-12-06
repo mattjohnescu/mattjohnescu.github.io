@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: (/mattjohnescu.github.io/profile.jpg)
+about_profile_image: /profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Matt and I'm a Marketing Analyst and recent MSBA graduate. I am on a quest to combine data science and marketing in my career. I graduated from the University of Utah in 2023 with a BA in Marketing, following this I immediately began a MA in Business Analytics. While completing my Masters degree I have been working in digital marketing at FUEL Marketing to help grow both of my skill sets.
 
