@@ -68,9 +68,13 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This text still needs to be filled in
+          Machine learning for Preventative Maintenance for Swire Coca-Cola
         description: | # this will include new lines to allow paragraphs
-          This text still needs to be filled in
+          Developed a predictive model using lasso regression to identify machines and parts causing unplanned downtime, reducing costly production losses. Delivered actionable insights for preventative maintenance, saving Swire Coca-Cola millions annually while optimizing plant efficiency.
+  
+  
+  
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
