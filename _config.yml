@@ -50,6 +50,8 @@ about_profile_image: /profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Matt and I am a Marketing Analyst and recent MSBA graduate. I am on a quest to combine data science and marketing in my career. I graduated from the University of Utah in 2023 with a BS in Marketing, following this I immediately began a MS in Business Analytics. While completing my Masters degree I have been working in digital marketing at FUEL Marketing to help grow both of my skill sets.
 
+  NEW: hi, my name is matt and I am a marketing analyst. I recently graduated from the University of Utah in 2023 with a Bachelor of Science in marketing. Following this I immediately began a masters of science in business analytics which I finished in Decemeber 2024. While completing my Master's degree. I have been working as a marketing analyst at fuel marketing. Both my academic and professional pursuits have led me on a personal quest to better combine data science and marketing. 
+
   I am most skilled in: <mark>Marketing Analytics</mark> and <mark>Skiing</mark>
 
 content:
@@ -141,7 +143,6 @@ content:
       - Skiing
       - Alpinism
       - Volunteering with the Special Olympics
-      - Good conversation and a cold beer at a quiet bar
 
       Look at this cool image  
 fun_image: /IMG_2781.jpg
