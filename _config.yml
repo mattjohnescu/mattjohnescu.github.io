@@ -61,9 +61,9 @@ content:
         link: github.com/mattjohnescu/MSBA-Capstone-Project
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  mattjohnescu/MSBA-Capstone-Project
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/mattjohnescu/MSBA-Capstone-Project
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
