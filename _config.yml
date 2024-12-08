@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: MSBA Capstone Project
+        title: MSBA Capstone Project, Predictive Maintenance for Swire Coca-Cola
         link: github.com/mattjohnescu/MSBA-Capstone-Project
         # link_text: Project Website
         additional_links:
@@ -72,6 +72,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           Developed a predictive model using lasso regression to identify machines and parts causing unplanned downtime, reducing costly production losses. Delivered actionable insights for preventative maintenance, saving Swire Coca-Cola millions annually while optimizing plant efficiency.
   
+      - layout: top-middle
+        title: MSBA Practice Capstone Project, Predicting Loan Default Rate
+        link: github.com/mattjohnescu/Practice-Capstone-Project
+        # link_text: Project Website
+        additional_links:
+          - title:  mattjohnescu/Practice-Capstone-Project
+            icon: fab fa-github
+            url: github.com/mattjohnescu/Practice-Capstone-Project
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Everyday individuals with no credit history are subject to unfair loaning practices, even if there is other supporting evidence that they can pay back a loan. The purpose of this project was to identify variables that identify and individuals ability to repay or not repay a loan when for individuals with no credit history. 
+        description: | # this will include new lines to allow paragraphs
+          Home Credit Default Risk Prediction: Enhanced loan repayment prediction models for Home Credit using LightGBM, SVM, and Linear Regression. Delivered actionable insights to responsibly expand their client base, reduce defaults, and increase profitability by leveraging alternative data and improving decision-making processes. 
   
   
   
