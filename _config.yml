@@ -68,7 +68,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Machine learning for Preventative Maintenance for Swire Coca-Cola
+          Machine learning for Preventative Maintenance for Swire Coca-Cola. Honestly the best part of this project was collaborating with my team on a seemingly impossible problem.
         description: | # this will include new lines to allow paragraphs
           Developed a predictive model using lasso regression to identify machines and parts causing unplanned downtime, reducing costly production losses. Delivered actionable insights for preventative maintenance, saving Swire Coca-Cola millions annually while optimizing plant efficiency.
   
@@ -117,8 +117,6 @@ content:
           Ranked #5 in the U.S. by TFE Times (2024) and designed to provide the skills necessary to compete in the rapidly growing market for analytics and data science professionals, the David Eccles School of Business Master of Science in Business Analytics (MSBA) program offers a unique blend of innovative curriculum in both the data analytics and business space.
         description: | # this will include new lines to allow paragraphs
           During my Masters program I took the opportunity to pursue combining data science and marketing through a number of courses including **data mining, big data analytics, natural language processing**, all using **Python**, **R**, and **SQL**. 
-
-
           - Worked with Swire Coca-Cola to complete my capstone project. Each year Swire is faced with the issue of only meeting 94% of its demand, 60 million dollars worth of this loss is due to machine downtime. By implementing Machine Learning to discover trends and opportunities for Preventative Maintenance in bottling and canning production lines, my team and I were able to discover trends that could cut down on machine downtime by 10-15%.
 
       - layout: left
@@ -128,7 +126,7 @@ content:
         quote: >
           The marketing undergraduate curriculum includes courses in advertising, digital marketing and analytics, strategic marketing, and professional sales.
         description: | # this will include new lines to allow paragraphs
-          Took courses in Market Research, Marketing Analytics, International Marketing, Business Strategy.
+          Took courses in Market Research, Marketing Analytics, International Marketing, Business Strategy. Through my coursework I discovered the potential for using data to make marketing decisions. This fact seemed so important to me that I grew just as passionate about data decision making as I am about marketing, leading me to pursue a masters degree in business analytics.
 
 
   - title: A Little More About Me
