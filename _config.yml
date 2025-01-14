@@ -73,13 +73,13 @@ content:
           Developed a predictive model using lasso regression to identify machines and parts causing unplanned downtime, reducing costly production losses. Delivered actionable insights for preventative maintenance, saving Swire Coca-Cola millions annually while optimizing plant efficiency.
   
       - layout: top-middle
-        title: MSBA Practice Capstone Project, Predicting Loan Default Rate
-        link: github.com/mattjohnescu/Practice-Capstone-Project
+        title: Kaggle Competiton, Predicting Loan Default Rate
+        link: github.com/mattjohnescu/Kaggle-Competition-Loan-Default
         # link_text: Project Website
         additional_links:
-          - title:  mattjohnescu/Practice-Capstone-Project
+          - title:  mattjohnescu/Kaggle-Competition-Loan-Default
             icon: fab fa-github
-            url: github.com/mattjohnescu/Practice-Capstone-Project
+            url: github.com/mattjohnescu/Kaggle-Competition-Loan-Default
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
