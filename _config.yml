@@ -73,6 +73,22 @@ content:
           Developed a predictive model using lasso regression to identify machines and parts causing unplanned downtime, reducing costly production losses. Delivered actionable insights for preventative maintenance, saving Swire Coca-Cola millions annually while optimizing plant efficiency.
   
       - layout: top-middle
+        title: Exploring different Machine Learning Models
+        link: github.com/mattjohnescu/ML-Methods-Project
+        # link_text: Project Website
+        additional_links:
+          - title:  mattjohnescu/ML-Methods-Project
+            icon: fab fa-github
+            url: github.com/mattjohnescu/ML-Methods-Project
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Using 5 different ML models to tackle business problems and questions made from a E-commerce sales dataset.
+        description: | # this will include new lines to allow paragraphs
+          During this project I explored how different Machine Learning models can be applied to different business questions and solutions. I used Penalized Regressions to identify relationships between variables, Ensemble methods to explore feature importance related to total sales, PCA combined with Clustering analysis to find the optimal number of customer segments and what those segments should be, and Neural Networks to explore other possible relationships in the data. 
+      
+      - layout: top-middle
         title: Kaggle Competiton, Predicting Loan Default Rate
         link: github.com/mattjohnescu/Kaggle-Competition-Loan-Default
         # link_text: Project Website
@@ -88,8 +104,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Home Credit Default Risk Prediction: Enhanced loan repayment prediction models for Home Credit using LightGBM, SVM, and Linear Regression. Delivered actionable insights to responsibly expand their client base, reduce defaults, and increase profitability by leveraging alternative data and improving decision-making processes. 
   
-  
-  
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
