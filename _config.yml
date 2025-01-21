@@ -50,7 +50,7 @@ about_profile_image: /profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Matt and I am a Marketing Analyst. I recently graduated from the University of Utah in 2023 with a Bachelor of Science in marketing. Following this I immediately began a Masters of Science in Business Analytics which I finished in December 2024. While completing my Master's degree, I have been working as a Marketing Analyst at Fuel Marketing. Both my academic and professional pursuits have led me on a personal quest to better combine Data Science and Marketing. 
 
-  I am most skilled in: <mark>Marketing Analytics</mark> and <mark>Skiing</mark>
+  I am most skilled in:<mark>Data Science</mark>, <mark>Marketing Analytics</mark> and <mark>Skiing</mark>
 
 content:
   - title: Projects # Title for the section
