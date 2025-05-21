@@ -48,9 +48,11 @@ linkedin_username: matthewjohnescu
 # about_title: About Me
 about_profile_image: /profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Matt and I am a Marketing Analyst. I recently graduated from the University of Utah in 2023 with a Bachelor of Science in marketing. Following this I immediately began a Masters of Science in Business Analytics which I finished in December 2024. While completing my Master's degree, I have been working as a Marketing Analyst at Fuel Marketing. Both my academic and professional pursuits have led me on a personal quest to better combine Data Science and Marketing. 
+  Hi, my name is Matt. I recently graduated from the University of Utah in 2023 with a Bachelor of Science in marketing. Following this I immediately began a Masters of Science in Business Analytics which I finished in December 2024. While completing my Master's degree, I worked as a Marketing Analyst at Fuel Marketing. Both my academic and professional pursuits have led me on a personal quest to better combine Data Science and Marketing. 
 
   I am most skilled in:<mark>Data Science</mark>, <mark>Marketing Analytics</mark> and <mark>Skiing</mark>
+
+  I am currently learning more about: <mark>AI Agents</mark>, <mark>Databricks through Microsoft Azure</mark>, and <mark>Advanced SQL</mark>
 
 content:
   - title: Projects # Title for the section
@@ -117,10 +119,9 @@ content:
         quote: >
             Fuel Marketing is a top Utah marketing and creative agency for branding, digital marketing, social media, TV/radio, outdoor, web, SEO, graphic design, PR, and more.
         description: | # this will include new lines to allow paragraphs
-            - Manage digital marketing campaigns for over 60 franchise locations, coordinating closely with account managers and web developers. Utilized tools like Power BI and Dashthis to create dashboards that provided clients with comprehensive, data-driven insights and actionable results.
-            - Enhanced campaigns by conducting A/B testing and developing data-driven strategies, achieving a 10% performance increase through targeted insights and ad optimization.
-            - Created clear, actionable reports and presentations, turning complex data into easily digestible insights for clients and stakeholders.
-            - Worked on a cross-functional team to start SEO as a service at Fuel, successfully implemented this service with existing clients and new clients.
+            - Managed multiple digital media pipelines, contributing to 300k in monthly agency revenue, building campaigns, real-time dashboards, and data connections for consumer service, education, and medical businesses. Mainly on Google and Meta using Google Analytics, Meta Pixels, and UTM links for funnel placement.
+            - Utilized Scikit-learn in Python to perform linear and multiple regression on Google keyword performance on an ad-hoc basis, improving keyword performance by 20% on average per campaign.
+            - Enhanced campaign performance by conducting A/B/x testing, achieving a 15% performance increase in Meta campaigns over a 3-month period.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
