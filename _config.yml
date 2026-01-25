@@ -94,15 +94,15 @@ content:
 
       - layout: top-middle
         title: AI Agent Project (Completed)
-        link: github.com/mattjohnescu
+        link: https://github.com/mattjohnescu/brain-rot-bot
         additional_links:
           - title: mattjohnescu
             icon: fab fa-github
-            url: github.com/mattjohnescu
+            url: https://github.com/mattjohnescu/brain-rot-bot
         quote: >
           Built and completed an AI agent to automate a real-world business workflow end-to-end.
         description: |
-          Designed and completed an AI agent focused on automating a multi-step workflow including data intake, enrichment, validation, and execution. Emphasis was placed on reliability, clarity, and practical GTM use cases rather than experimentation alone.
+          Designed and completed an AI agent focused on automating a multi-step workflow automating an entire instagram page, including content creation, engagements, and follower growth. Leveraged GPT-4, DALL·E 3, and various APIs to create a fully autonomous system.
 
       - layout: top-middle
         title: Exploring Different Machine Learning Models
