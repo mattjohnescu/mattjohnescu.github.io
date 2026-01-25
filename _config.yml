@@ -21,13 +21,18 @@ linkedin_username: matthewjohnescu
 # About Section
 about_profile_image: /profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Matt. I work in Revenue Operations and GTM automation at a fast-paced, VC-backed startup, partnering daily with executive leadership to design and scale AI-driven revenue systems. I thrive in fast-paced environments where priorities change quickly and automation helps teams move faster.
+  Hi, my name is Matt. I work in Revenue Operations and GTM automation at a fast-paced, VC-backed startup, partnering daily with executive leadership to build AI-driven systems that help the sales team move faster.
 
-  My work focuses on replacing manual sales and marketing effort with durable systems like automated lead routing, enrichment, outbound workflows, attribution, and executive reporting. I spend most of my time translating high-level strategy into operational reality and building infrastructure that allows lean teams to scale output without scaling headcount.
+  <details>
+  <summary><strong>Read more</strong></summary>
+
+  My work focuses on replacing manual sales and marketing effort with durable systems like automated lead routing, enrichment, outbound workflows, attribution, and executive reporting. I spend most of my time turning high-level strategy into operational reality and building infrastructure that helps lean teams scale output without scaling headcount.
 
   My background blends marketing, analytics, and applied AI. I earned a Bachelor of Science in Marketing from the University of Utah in 2023 and completed a Master of Science in Business Analytics in December 2024. During my graduate program, I worked as a Marketing Analyst at Fuel Marketing, where I built analytics pipelines, dashboards, and reporting frameworks across Google and Meta.
 
   Outside of work, I spend as much time as possible in the mountains. Skiing, backpacking, and mountaineering are core parts of my life and how I reset. I’m also continuously learning, spending time on Kaggle, experimenting with tools like [Clay](https://www.clay.run/), taking courses on DataCamp, and having conversations about business and AI.
+
+  </details>
 
 
 content:
