@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Matt Johnescu
-title: Data, Marketing, OPs Analyst
+title: Revenue Operations & GTM Automation (AI)
 email: johnescum@gmail.com
 website: github.com/mattjohnescu
 
@@ -15,149 +15,146 @@ website: github.com/mattjohnescu
 darkmode: true
 
 # Social links
-# twitter_username: facespics
-github_username:  mattjohnescu
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: mattjohnescu
+github_username: mattjohnescu
 linkedin_username: matthewjohnescu
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: /profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Matt. I recently graduated from the University of Utah in 2023 with a Bachelor of Science in marketing. Following this I immediately began a Masters of Science in Business Analytics which I finished in December 2024. While completing my Master's degree, I worked as a Marketing Analyst at Fuel Marketing. Both my academic and professional pursuits have led me on a personal quest to better combine Data Science and Marketing. 
+about_content: |
+  Hi, my name is Matt. I work in Revenue Operations and GTM automation at a fast-paced, VC-backed startup, where I partner daily with executive leadership to design and scale AI-driven revenue systems. I thrive in high-velocity environments where priorities move quickly, ambiguity is normal, and leverage matters more than process for process’ sake.
 
-  I am most skilled in:<mark>Data Science</mark>, <mark>Marketing Analytics</mark> and <mark>Skiing</mark>
+  My work focuses on replacing manual sales and marketing effort with durable systems—automated lead routing, enrichment, outbound workflows, attribution, and executive reporting. I spend most of my time translating high-level strategy into operational reality, building infrastructure that allows lean teams to scale output without scaling headcount. I enjoy working close to decision-makers and being accountable for systems that materially affect pipeline and execution.
 
-  I am currently learning more about: <mark>AI Agents</mark>, <mark>Databricks through Microsoft Azure</mark>, and <mark>Advanced SQL</mark>
+  My background blends marketing, analytics, and applied AI. I earned a Bachelor of Science in Marketing from the University of Utah in 2023 and completed a Master of Science in Business Analytics in December 2024. During my graduate program, I worked as a Marketing Analyst at Fuel Marketing, where I built analytics pipelines, dashboards, and reporting frameworks across Google and Meta—experience that shaped how I think about data clarity, storytelling, and decision-making.
+
+  Outside of work, I spend as much time as possible in the mountains. Skiing, backpacking, and mountaineering are core parts of my life and how I reset. I’m also continuously learning—currently deepening my work with AI agents, Databricks on Azure, and advanced SQL—always with an eye toward practical, real-world applications rather than theory alone.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+
+  # EXPERIENCE COMES FIRST
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Hona
+        link: hona.com
+        sub_title: Senior Revenue Operations Analyst (GTM Automation & AI)
+        caption: June 2025 - Present
+        quote: >
+          Hona is a VC-funded legal tech startup focused on modernizing client communication and enabling law firms to operate more efficiently.
+        description: |
+          - Operate day-to-day with executive leadership in a fast-paced, VC-backed environment to scale GTM execution and revenue systems for a 15-person sales organization.
+          - Own automated lead routing, enrichment, outbound workflows, and attribution across HubSpot and GTM tooling.
+          - Replaced third-party enrichment and prospecting tools with custom AI-driven Clay workflows, reducing manual research time by ~90%.
+          - Designed and deployed AI-automated outbound and enrichment pipelines that replaced manual prospecting after company restructuring, generating ~20–25 warm leads per week.
+          - Automated executive, MBR, QBR, and board-level reporting by consolidating HubSpot and Maxio data into live dashboards used across leadership and the company.
+
+      - layout: left
+        title: FUEL Marketing
+        link: fuelmarketing.com
+        sub_title: Marketing Analyst, Digital Ads Team
+        caption: May 2023 - May 2025
+        quote: >
+          Fuel Marketing is a Utah-based creative and digital agency supporting brands across multiple industries.
+        description: |
+          - Managed multi-channel digital media pipelines across Google and Meta for consumer services, education, and medical clients.
+          - Built real-time dashboards and reporting frameworks using Power BI and DashThis to translate performance data into clear, actionable insights.
+          - Worked directly with clients to tell a coherent story with their marketing data and guide decision-making.
+          - Improved campaign performance through structured A/B testing, driving ~10–15% gains across Meta campaigns.
+          - Helped establish SEO as a new agency service, supporting four initial clients through cross-functional collaboration.
+
+      - layout: left
+        title: GPS Capital Markets
+        link: gpsfx.com
+        sub_title: Foreign Exchange Advisory Intern, Sales Team
+        caption: May 2022 - October 2022
+        quote: >
+          GPS Capital Markets provides foreign exchange and risk management solutions for businesses with international exposure.
+        description: |
+          - Used CRM data and client research to identify high-probability prospects, contributing to three new client acquisitions.
+          - Developed outbound messaging and sales pitches, translating complex FX products into clear value propositions.
+          - Built an early foundation in GTM execution, ICP development, and sales analytics.
+
+  # PROJECTS SECOND
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: MSBA Capstone Project, Predictive Maintenance for Swire Coca-Cola
         link: github.com/mattjohnescu/MSBA-Capstone-Project
-        # link_text: Project Website
         additional_links:
-          - title:  mattjohnescu/MSBA-Capstone-Project
+          - title: mattjohnescu/MSBA-Capstone-Project
             icon: fab fa-github
             url: github.com/mattjohnescu/MSBA-Capstone-Project
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Machine learning for Preventative Maintenance for Swire Coca-Cola. Honestly the best part of this project was collaborating with my team on a seemingly impossible problem.
-        description: | # this will include new lines to allow paragraphs
-          Developed a predictive model using lasso regression to identify machines and parts causing unplanned downtime, reducing costly production losses. Delivered actionable insights for preventative maintenance, saving Swire Coca-Cola millions annually while optimizing plant efficiency.
-  
+          Machine learning for preventative maintenance in large-scale manufacturing environments.
+        description: |
+          Developed a predictive model using lasso regression to identify machines and parts causing unplanned downtime. Delivered actionable insights that could reduce downtime by 10–15%, saving millions annually while improving plant efficiency.
+
       - layout: top-middle
-        title: Exploring different Machine Learning Models
-        link: github.com/mattjohnescu/ML-Methods-Project
-        # link_text: Project Website
+        title: AI Agent Project (Completed)
+        link: github.com/mattjohnescu
         additional_links:
-          - title:  mattjohnescu/ML-Methods-Project
+          - title: mattjohnescu
+            icon: fab fa-github
+            url: github.com/mattjohnescu
+        quote: >
+          Built and completed an AI agent to automate a real-world business workflow end-to-end.
+        description: |
+          Designed and completed an AI agent focused on automating a multi-step workflow including data intake, enrichment, validation, and execution. Emphasis was placed on reliability, clarity, and practical GTM use cases rather than experimentation alone.
+
+      - layout: top-middle
+        title: Exploring Different Machine Learning Models
+        link: github.com/mattjohnescu/ML-Methods-Project
+        additional_links:
+          - title: mattjohnescu/ML-Methods-Project
             icon: fab fa-github
             url: github.com/mattjohnescu/ML-Methods-Project
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Using 5 different ML models to tackle business problems and questions made from a E-commerce sales dataset.
-        description: | # this will include new lines to allow paragraphs
-          During this project I explored how different Machine Learning models can be applied to different business questions and solutions. I used Penalized Regressions to identify relationships between variables, Ensemble methods to explore feature importance related to total sales, PCA combined with Clustering analysis to find the optimal number of customer segments and what those segments should be, and Neural Networks to explore other possible relationships in the data. 
-      
+          Applying multiple ML approaches to real business questions using e-commerce data.
+        description: |
+          Explored penalized regressions, ensemble methods, PCA with clustering, and neural networks to understand feature importance, customer segmentation, and sales drivers across an e-commerce dataset.
+
       - layout: top-middle
-        title: Kaggle Competiton, Predicting Loan Default Rate
+        title: Kaggle Competition, Predicting Loan Default Rate
         link: github.com/mattjohnescu/Kaggle-Competition-Loan-Default
-        # link_text: Project Website
         additional_links:
-          - title:  mattjohnescu/Kaggle-Competition-Loan-Default
+          - title: mattjohnescu/Kaggle-Competition-Loan-Default
             icon: fab fa-github
             url: github.com/mattjohnescu/Kaggle-Competition-Loan-Default
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Everyday individuals with no credit history are subject to unfair loaning practices, even if there is other supporting evidence that they can pay back a loan. The purpose of this project was to identify variables that identify and individuals ability to repay or not repay a loan when for individuals with no credit history. 
-        description: | # this will include new lines to allow paragraphs
-          Home Credit Default Risk Prediction: Enhanced loan repayment prediction models for Home Credit using LightGBM, SVM, and Linear Regression. Delivered actionable insights to responsibly expand their client base, reduce defaults, and increase profitability by leveraging alternative data and improving decision-making processes. 
-  
+          Improving loan default prediction for individuals without traditional credit history.
+        description: |
+          Built and evaluated LightGBM, SVM, and linear models to improve default prediction using alternative data. Focused on responsible lending, profitability, and improved risk assessment.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: FUEL Marketing
-        link: fuelmarketing.com
-        # link_text: fuelmarketing.com
-        sub_title: Marketing Analyst
-        caption: May 2023 - Present
-        quote: >
-            Fuel Marketing is a top Utah marketing and creative agency for branding, digital marketing, social media, TV/radio, outdoor, web, SEO, graphic design, PR, and more.
-        description: | # this will include new lines to allow paragraphs
-            - Managed multiple digital media pipelines, contributing to 300k in monthly agency revenue, building campaigns, real-time dashboards, and data connections for consumer service, education, and medical businesses. Mainly on Google and Meta using Google Analytics, Meta Pixels, and UTM links for funnel placement.
-            - Utilized Scikit-learn in Python to perform linear and multiple regression on Google keyword performance on an ad-hoc basis, improving keyword performance by 20% on average per campaign.
-            - Enhanced campaign performance by conducting A/B/x testing, achieving a 15% performance increase in Meta campaigns over a 3-month period.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: The University of Utah
         caption: 2023 - 2024
         sub_title: MS Business Analytics
-        quote: >
-          Ranked #5 in the U.S. by TFE Times (2024) and designed to provide the skills necessary to compete in the rapidly growing market for analytics and data science professionals, the David Eccles School of Business Master of Science in Business Analytics (MSBA) program offers a unique blend of innovative curriculum in both the data analytics and business space.
-        description: | # this will include new lines to allow paragraphs
-          During my Masters program I took the opportunity to pursue combining data science and marketing through a number of courses including **data mining, big data analytics, natural language processing**, all using **Python**, **R**, and **SQL**. 
-          - Worked with Swire Coca-Cola to complete my capstone project. Each year Swire is faced with the issue of only meeting 94% of its demand, 60 million dollars worth of this loss is due to machine downtime. By implementing Machine Learning to discover trends and opportunities for Preventative Maintenance in bottling and canning production lines, my team and I were able to discover trends that could cut down on machine downtime by 10-15%.
+        description: |
+          Coursework focused on data mining, big data analytics, natural language processing, and applied machine learning using Python, R, and SQL. Completed a capstone project with Swire Coca-Cola focused on predictive maintenance.
 
       - layout: left
         title: The University of Utah
         caption: 2019 - 2023
         sub_title: BS Marketing
-        quote: >
-          The marketing undergraduate curriculum includes courses in advertising, digital marketing and analytics, strategic marketing, and professional sales.
-        description: | # this will include new lines to allow paragraphs
-          Took courses in Market Research, Marketing Analytics, International Marketing, Business Strategy. Through my coursework I discovered the potential for using data to make marketing decisions. This fact seemed so important to me that I grew just as passionate about data decision making as I am about marketing, leading me to pursue a masters degree in business analytics.
-
+        description: |
+          Studied marketing analytics, market research, business strategy, and digital marketing. Discovered a long-term interest in using data to drive better marketing and business decisions.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in data science and marketing, some of my other interests and hobbies are:
-      - Backpacking
+    content: |
+      Outside of work, I spend as much time as possible outdoors:
       - Skiing
+      - Backpacking
       - Mountaineering
       - Volunteering with the Special Olympics
 
-
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -168,3 +165,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
